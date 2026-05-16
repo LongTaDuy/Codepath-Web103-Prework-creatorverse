@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough](https://drive.google.com/file/d/1-iMVKePtdVVzRocpkO5tf65aKIry7APk/view?usp=sharing)
 
 GIF created with ScreenToGif.
 
